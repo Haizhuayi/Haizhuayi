@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi, I’m Hai 👋
+## Hi there, I am Haizhu 👋
 
 Scientific Machine Learning | Physics-Aware Modelling | ML Engineering
 
